@@ -10,7 +10,7 @@
 
 #        𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸 ©2025
 
-![Screenshot_20250528-202305](https://github.com/user-attachments/assets/8e46fbe6-4206-4fe9-b08d-ed42be8af071)
+![Screenshot_20250528-202305](https://github.com/user-attachments/assets/133f694b-7b48-4085-9714-5a83de18ec95)
 
 
 
