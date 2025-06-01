@@ -23,7 +23,7 @@
 
 
 <div align="center">
-  <a href="https://fuck-you-1.onrender.com/">
+  <a href="https://fuck-you-1-qy0r.onrender.com/">
     <img title="GET SESSION ID" src="https://img.shields.io/badge/GET SESSION ID-HERE-ff69b4?style=for-the-badge&logo=render&logoColor=Blue&labelColor=ff69b4&color=ff69b4" width="260" height="45"/>
   </a>
 </div>
